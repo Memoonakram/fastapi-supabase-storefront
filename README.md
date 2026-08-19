@@ -1,4 +1,4 @@
-# 🛍️ Nexus Commerce API
+# 🛍️ AI Rise Global HQ Commerce API
 
 A high-performance, asynchronous REST API engine built for modern e-commerce platforms using **FastAPI** and **Supabase (PostgreSQL)**. Engineered with Role-Based Access Control (RBAC), JWT authentication, and relational catalog mapping.
 
